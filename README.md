@@ -8,7 +8,6 @@ Hello! I'm Kajal Mittal, a final year MCA (Master of Computer Applications) stud
 - **Degree:** Master of Computer Applications (MCA)
 - **University:** Graphic Era University (GEU)
 
-- 
 - **Degree:** Bachelor of Computer Science (B.Sc. CS)
 - **University:** Shri Guru Ram Rai University (SGRRU)
 
