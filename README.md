@@ -30,6 +30,11 @@ During my academic journey, I have worked on a variety of projects that have enh
    - Description: A weather application built with JSP (JavaServer Pages) providing real-time weather information in a visually appealing manner. Leveraging JSP's dynamic web page generation, the application fetches weather data from an API and dynamically updates the user interface. Users can easily search for weather conditions in specific locations, view temperature forecasts, and get details such as humidity and wind speed.
    - Technologies Used: Java - JSPs - APIs
 
+3. **Quiz Application**
+   - Description: The app allows users to test their programming knowledge by attempting different quizzes for various domains. Users can view the leaderboard, login, signup, retrieve their password if forgotten, and access multiple learning resources. An admin panel is included, allowing administrators to manage categories, questions, and courses, and access a dashboard for insights.
+   - Technologies Used: React.js - Bootstrap - Firebase 
+
+
 ## 📫 Contact Information
 
 - **Email:** kajal.mittal08@gmail.com
